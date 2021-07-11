@@ -1,134 +1,124 @@
 {
   "meta": {
-    "title": "DP for your portfolio",
+    "title": "Llewyn",
     "defaultLanguage": "English"
   },
   "aboutMe": {
-    "name": "Min Kyung Kang",
-    "nickName": "nickName!",
-    "profileImg": "../assets/images/me.gif",
-    "email": "mnk918p@gmail.com",
-    "githubUrl": "https://github.com/ddongule",
-    "blogUrl": "https://mingule.tistory.com/",
-    "linkedInUrl": "https://www.linkedin.com/"
+    "name": "Lee Jae Hwang",
+    "nickName": "Llewyn",
+    "profileImg": "../assets/images/llewyn.jpg",
+    "email": "llewyn.jh@gmail.com",
+    "githubUrl": "https://github.com/llewyn-jh"
   },
 
   "skillSets": [
     {
-      "category": "Front End Skills",
+      "category": "Machine learning",
       "skills": [
-        { "skill": "Javascript", "level": "5" },
-        { "skill": "HTML/CSS(SASS)", "level": "5" },
-        { "skill": "React", "level": "5" },
-        { "skill": "Typescript", "level": "4" }
+        { "skill": "Python", "level": "5" },
+        { "skill": "Tensorflow", "level": "4" },
+        { "skill": "Pytorch", "level": "3" },
+        { "skill": "Scikit learn", "level": "3" }
       ]
     },
     {
-      "category": "Back End Skills",
+      "category": "Data preprocessing",
       "skills": [
-        { "skill": "Python", "level": "3" },
+        { "skill": "SQL", "level": "4" },
+        { "skill": "Pandas", "level": "4" },
+        { "skill": "Numpy", "level": "4" },
+        { "skill": "Matplotlib", "level": "4" }
+      ]
+    },
+    {
+      "category": "Data visualization",
+      "skills": [
+        { "skill": "OpenCV", "level": "5" },
+        { "skill": "Superset", "level": "3" }
+      ]
+    },
+    {
+      "category": "Back-end skills",
+      "skills": [
         { "skill": "Django", "level": "2" },
-        { "skill": "Django-Rest-Framework", "level": "1" },
-        { "skill": "Java", "level": "5" },
-        { "skill": "Spring", "level": "5" },
-        { "skill": "Ruby", "level": "4" },
-        { "skill": "Ruby-on-Rails", "level": "5" }
+        { "skill": "Django-Rest-Framework", "level": "2" }
       ]
     },
     {
       "category": "Collaboration Skills",
       "skills": [
         { "skill": "Git/Github" },
-        { "skill": "Notion" },
-        { "skill": "Slack" },
-        { "skill": "Swit" }
+        { "skill": "Google sheets"},
+        { "skill": "Confluence" },
+        { "skill": "Slack" }
       ]
     },
     {
-      "category": "Etc...",
+      "category": "Etc",
       "skills": [
-        { "skill": "Netlify" },
-        { "skill": "Heroku" },
         { "skill": "Pythonanywhere" },
         { "skill": "AWS EC2" },
-        { "skill": "AWS Beanstalk" },
-        { "skill": "Docker" }
+        { "skill": "AWS S3" },
+        { "skill": "AWS RDS" },
+        { "skill": "AWS IAM" }
       ]
     }
   ],
 
   "projects": [
     {
-      "imgUrl": "",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
-      "title": "[Team] Project Title",
-      "term": "21.02.02 v1.3.0",
-      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "tags": ["React", "Javascript", "Java", "Spring"]
+      "imgUrl": "/assets/images/kdata.png",
+      "title": "[Team] 2021 데이터 바우처 사업",
+      "term": "21. 06. ~ current",
+      "description": "의류의 특성을 추출하는 AI 모델을 개발하기 위한 data 수집과 전처리",
+      "attribution": "의류의 특성을 데이터의 무결성의 관점에서 셀렉트스타(데이터 가공 회사)와 함께 정의",
+      "tags": ["data preprocessing"]
     },
     {
-      "imgUrl": "/assets/images/example-image-light.png",
-      "githubUrl": "https://github.com/ddongule",
-      "projectUrl": "",
-      "title": "[Personal] Project Title",
-      "term": "21.01.01 v1.0.0",
-      "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "tags": ["React", "Javascript", "Java", "Spring"]
+      "imgUrl": "/assets/images/innopolis.png",
+      "title": "[Team] AI 특성화 사업",
+      "term": "21. 03. ~ 21. 05",
+      "description": "이미지에서 의류의 종류, 길이, 소재, 패턴을 예측하는 AI모델 개발",
+      "attribution": "의류의 특성을 데이터의 무결성의 관점에서 셀렉트스타(데이터 가공 회사)와 함께 정의, AI 모델 개발과 학습",
+      "tags": ["data preprocessing", "OpenCV", "Pytorch"]
+    },
+    {
+      "imgUrl": "/assets/images/tipa.gif",
+      "title": "[Team] 2020년도 창업성장기술개발사업 디딤돌 과제",
+      "term": "20. 03. ~ 20. 12",
+      "description": "데이터 수집과 가공, 의류 추천 알고리즘 개발, 의류 이미지 인식 AI 모델 개발",
+      "attribution": "추천 모델 개발을 위한 필요한 변수 연구, 추천 모델 최적화, CVPR 논문 연구, 이미지와 텍스트 데이터 전처리, Mask R CNN 모델 학습, 완성된 알고리즘의 원리와 성능을 기술 문서로 작성, 소프트웨어 인증서 취득",
+      "tags": ["Tensorflow", "Mask R CNN", "SVM"]
     }
   ],
 
   "timestamp": [
     {
-      "title": "Woowa Sisters",
-      "when": "21.12 ~ ",
-      "organizer": "Woowa Sisters",
+      "title": "Data scientist",
+      "when": "19.12 ~ current",
+      "organizer": "Coordinary, South Korea, Seoul",
       "tags": ["company"]
     },
 
     {
-      "title": "2021 Woowa Tech Course 3th",
-      "when": "21.02.01 - 21.11.31",
-      "organizer": "Woowa Bros",
-      "tags": ["techcourse"]
+      "title": "Data scientist",
+      "when": "19. 01. ~ 19. 10.",
+      "organizer": "Richard's Atelier, Singapore",
+      "tags": ["company"]
     },
     {
-      "title": "우아한 대학교 (Woowa University)",
-      "when": "20.08.25",
-      "organizer": "University of Woowa",
-      "tags": ["graduation"]
-    }
-  ],
-
-  "experiences": [
-    {
-      "imgUrl": "/assets/images/example-image-dark.png",
-      "title": "[Software Engineer] Woowa Corp.",
-      "term": "21.02 - 현재 진행 중",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-      "experienceUrl": "https://woowacourse.github.io/"
-    },
-    {
-      "imgUrl": "/assets/images/example-image-light.png",
-      "title": "[Intern] Woowa Corp.",
-      "term": "19.11 - 21.03",
-      "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
-      "experienceUrl": "https://woowacourse.github.io/"
+      "title": "Operation",
+      "when": "18. 01. ~ 18. 12",
+      "organizer": "Jober, South Korea, Seoul",
+      "tags": ["company"]
     }
   ],
 
   "educations": [
     {
-      "title": "우아한 대학교 (Woowa University)",
-      "term": "2013.03 - 2017.03",
-      "description": "척척박사 졸업"
-    },
-    {
-      "title": "잠실 고등학교 (Jamsil High School)",
-      "term": "2010.03 - 2013.02",
-      "description": "인문계 졸업"
+      "title": "서강대학교 일반대학원 수학과",
+      "term": "2012.03 ~ 2014.03",
+      "description": "이학 석사 졸업"
     }
   ]
 }
