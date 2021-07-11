@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ddongule-simple-portfolio/static/css/main.ded16db9.chunk.css",
+    "main.js": "/ddongule-simple-portfolio/static/js/main.23f8cc9c.chunk.js",
+    "main.js.map": "/ddongule-simple-portfolio/static/js/main.23f8cc9c.chunk.js.map",
+    "runtime-main.js": "/ddongule-simple-portfolio/static/js/runtime-main.3d74b8e9.js",
+    "runtime-main.js.map": "/ddongule-simple-portfolio/static/js/runtime-main.3d74b8e9.js.map",
+    "static/js/2.8a07bb92.chunk.js": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js",
+    "static/js/2.8a07bb92.chunk.js.map": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js.map",
+    "static/js/3.413d369d.chunk.js": "/ddongule-simple-portfolio/static/js/3.413d369d.chunk.js",
+    "static/js/3.413d369d.chunk.js.map": "/ddongule-simple-portfolio/static/js/3.413d369d.chunk.js.map",
+    "static/js/4.ccdf8b83.chunk.js": "/ddongule-simple-portfolio/static/js/4.ccdf8b83.chunk.js",
+    "static/js/4.ccdf8b83.chunk.js.map": "/ddongule-simple-portfolio/static/js/4.ccdf8b83.chunk.js.map",
+    "index.html": "/ddongule-simple-portfolio/index.html",
+    "static/css/main.ded16db9.chunk.css.map": "/ddongule-simple-portfolio/static/css/main.ded16db9.chunk.css.map",
+    "static/js/2.8a07bb92.chunk.js.LICENSE.txt": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js.LICENSE.txt",
+    "static/media/aboutMySelf.english.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.english.5726e236.md",
+    "static/media/aboutMySelf.korean.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.korean.47e22f16.md",
+    "static/media/global.scss": "/ddongule-simple-portfolio/static/media/sun.6d48da50.png",
+    "static/media/index.scss": "/ddongule-simple-portfolio/static/media/half-moon.cde80bc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d74b8e9.js",
+    "static/js/2.8a07bb92.chunk.js",
+    "static/css/main.ded16db9.chunk.css",
+    "static/js/main.23f8cc9c.chunk.js"
+  ]
+}
