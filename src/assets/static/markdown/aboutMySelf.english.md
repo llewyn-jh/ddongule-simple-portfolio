@@ -1,39 +1,11 @@
-<br />
+<br/>
 
 # Hi!
 
-## my Name is **ddongule**
+## I'm a data scientist who loves mathematics.
 
-## I am Software Engineer
+## Professional in AI computer vision and data analysis.
 
-## **Professional in Front-End**
+<br/>
 
-<br />
-
-### My Github is .. [www.github.com/ddongule](www.github.com/ddongule)
-
-<br />
-
-## - +R+Red HighLight+R+
-
-## - +G+Green HighLight+G+
-
-## - +B+Blue HighLight+B+
-
-<br /><br />
-
-I am Good at `React.js`, `HTML/CSS(SASS)`, `Javascript`!
-
-& Check List (Black & White)
-
-- Check List (Highlight)
-
-<br />
-
-1. Ordered List
-2. Ordered List
-3. Ordered List
-4. Ordered List
-
-<br />
-<br />
+I love studying the latest AI technology and applying it to reality, but I believe AI is just one of the ways to realize valuable things. There are many situations where I should understand and utilize better algorithms to develop all processes, so I study data structures and algorithms these days.
