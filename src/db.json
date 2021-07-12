@@ -6,7 +6,7 @@
   "aboutMe": {
     "name": "Lee Jae Hwang",
     "nickName": "Llewyn",
-    "profileImg": "../assets/images/llewyn.jpg",
+    "profileImg": "./assets/images/llewyn.jpg",
     "email": "llewyn.jh@gmail.com",
     "githubUrl": "https://github.com/llewyn-jh"
   },
@@ -67,7 +67,7 @@
 
   "projects": [
     {
-      "imgUrl": "/assets/images/kdata.png",
+      "imgUrl": "./assets/images/kdata.png",
       "title": "[Team] 2021 데이터 바우처 사업",
       "term": "21. 06. ~ current",
       "description": "의류의 특성을 추출하는 AI 모델을 개발하기 위한 data 수집과 전처리",
@@ -75,7 +75,7 @@
       "tags": ["data preprocessing"]
     },
     {
-      "imgUrl": "/assets/images/innopolis.png",
+      "imgUrl": "./assets/images/innopolis.png",
       "title": "[Team] AI 특성화 사업",
       "term": "21. 03. ~ 21. 05",
       "description": "이미지에서 의류의 종류, 길이, 소재, 패턴을 예측하는 AI모델 개발",
@@ -83,7 +83,7 @@
       "tags": ["data preprocessing", "OpenCV", "Pytorch"]
     },
     {
-      "imgUrl": "/assets/images/tipa.gif",
+      "imgUrl": "./assets/images/tipa.gif",
       "title": "[Team] 2020년도 창업성장기술개발사업 디딤돌 과제",
       "term": "20. 03. ~ 20. 12",
       "description": "데이터 수집과 가공, 의류 추천 알고리즘 개발, 의류 이미지 인식 AI 모델 개발",
