@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/ddongule-simple-portfolio/static/css/main.ded16db9.chunk.css",
-    "main.js": "/ddongule-simple-portfolio/static/js/main.cded91c5.chunk.js",
-    "main.js.map": "/ddongule-simple-portfolio/static/js/main.cded91c5.chunk.js.map",
-    "runtime-main.js": "/ddongule-simple-portfolio/static/js/runtime-main.60da7d62.js",
-    "runtime-main.js.map": "/ddongule-simple-portfolio/static/js/runtime-main.60da7d62.js.map",
+    "main.js": "/ddongule-simple-portfolio/static/js/main.5dd62cd5.chunk.js",
+    "main.js.map": "/ddongule-simple-portfolio/static/js/main.5dd62cd5.chunk.js.map",
+    "runtime-main.js": "/ddongule-simple-portfolio/static/js/runtime-main.c17ae9b5.js",
+    "runtime-main.js.map": "/ddongule-simple-portfolio/static/js/runtime-main.c17ae9b5.js.map",
     "static/js/2.8a07bb92.chunk.js": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js",
     "static/js/2.8a07bb92.chunk.js.map": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js.map",
-    "static/js/3.413d369d.chunk.js": "/ddongule-simple-portfolio/static/js/3.413d369d.chunk.js",
-    "static/js/3.413d369d.chunk.js.map": "/ddongule-simple-portfolio/static/js/3.413d369d.chunk.js.map",
-    "static/js/4.01a97836.chunk.js": "/ddongule-simple-portfolio/static/js/4.01a97836.chunk.js",
-    "static/js/4.01a97836.chunk.js.map": "/ddongule-simple-portfolio/static/js/4.01a97836.chunk.js.map",
+    "static/js/3.71fc0d75.chunk.js": "/ddongule-simple-portfolio/static/js/3.71fc0d75.chunk.js",
+    "static/js/3.71fc0d75.chunk.js.map": "/ddongule-simple-portfolio/static/js/3.71fc0d75.chunk.js.map",
+    "static/js/4.670012c7.chunk.js": "/ddongule-simple-portfolio/static/js/4.670012c7.chunk.js",
+    "static/js/4.670012c7.chunk.js.map": "/ddongule-simple-portfolio/static/js/4.670012c7.chunk.js.map",
     "index.html": "/ddongule-simple-portfolio/index.html",
     "static/css/main.ded16db9.chunk.css.map": "/ddongule-simple-portfolio/static/css/main.ded16db9.chunk.css.map",
     "static/js/2.8a07bb92.chunk.js.LICENSE.txt": "/ddongule-simple-portfolio/static/js/2.8a07bb92.chunk.js.LICENSE.txt",
-    "static/media/aboutMySelf.english.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.english.5726e236.md",
-    "static/media/aboutMySelf.korean.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.korean.94745d83.md",
+    "static/media/aboutMySelf.english.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.english.1fdccb79.md",
+    "static/media/aboutMySelf.korean.md": "/ddongule-simple-portfolio/static/media/aboutMySelf.korean.162811cb.md",
     "static/media/global.scss": "/ddongule-simple-portfolio/static/media/sun.6d48da50.png",
     "static/media/index.scss": "/ddongule-simple-portfolio/static/media/half-moon.cde80bc0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.60da7d62.js",
+    "static/js/runtime-main.c17ae9b5.js",
     "static/js/2.8a07bb92.chunk.js",
     "static/css/main.ded16db9.chunk.css",
-    "static/js/main.cded91c5.chunk.js"
+    "static/js/main.5dd62cd5.chunk.js"
   ]
 }
