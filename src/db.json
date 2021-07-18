@@ -27,13 +27,13 @@
         { "skill": "SQL", "level": "3" },
         { "skill": "Pandas", "level": "4" },
         { "skill": "Numpy", "level": "4" },
-        { "skill": "Matplotlib", "level": "3" }
+        { "skill": "OpenCV", "level": "5" }
       ]
     },
     {
       "category": "Data visualization",
       "skills": [
-        { "skill": "OpenCV", "level": "5" },
+        { "skill": "Matplotlib", "level": "3" },
         { "skill": "Superset", "level": "3" }
       ]
     },
